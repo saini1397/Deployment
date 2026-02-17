@@ -3,3 +3,6 @@ Step 2  - Run Export command - shinylive::export("C:/Users/saini/OneDrive/Docume
 Step 3  - After export Commit and push to github (to newly created repo at step 1)
 Step 4 - In github goto settings -> Pages -> select Branch and root and click save
 Step 5 - Deployed is at - https://saini1397.github.io/<repo name> e.g. https://saini1397.github.io/portfolio-live/
+
+
+Note : Make sure rsconnect is deleted before performing export at Step 2
