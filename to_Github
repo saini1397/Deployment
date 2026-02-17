@@ -5,4 +5,4 @@ Step 4 - In github goto settings -> Pages -> select Branch and root and click sa
 Step 5 - Deployed is at - https://saini1397.github.io/<repo name> e.g. https://saini1397.github.io/portfolio-live/
 
 
-Note : Make sure rsconnect is deleted before performing export at Step 2
+Note : Make sure rsconnect is deleted before performing export at Step 2, else you will get a error  -  error in desc$repository : $ operator is invalid for atomic vectors
